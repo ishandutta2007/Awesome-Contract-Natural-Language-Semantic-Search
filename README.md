@@ -12,7 +12,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Contract-Natural-Language-Semantic-Search/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Contract-Natural-Language-Semantic-Search?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Contract-Natural-Language-Semantic-Search/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Contract-Natural-Language-Semantic-Search?style=social" alt="GitHub_Stars" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT" /></a>
   <a href="https://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -67,7 +67,7 @@ The enterprise search and contract intelligence sector is valued at approximatel
 
 *Open-source document intelligence engines, legal document review platforms, and vector retrieval databases suitable for building sovereign, private contract search systems. Ranked in descending order by GitHub stargazers count.* 🛠️
 
-| Project | Stars | Focus & Description |
+| Project | GitHub_Stars | Focus & Description |
 |:---|:---|:---|
 | **[Docling](https://github.com/DS4SD/docling)** | [![Stars](https://img.shields.io/github/stars/DS4SD/docling?style=social&color=white)](https://github.com/DS4SD/docling/stargazers) | Universal document parsing toolkit for PDF, DOCX, and scanned contracts. Accurately extracts legal document layouts, reading orders, tables, and clause structures into structured Markdown/JSON for semantic chunking and embedding pipelines. |
 | **[Milvus](https://github.com/milvus-io/milvus)** | [![Stars](https://img.shields.io/github/stars/milvus-io/milvus?style=social&color=white)](https://github.com/milvus-io/milvus/stargazers) | Cloud-native open-source vector database built for massive-scale semantic similarity search and AI document retrieval. Supports dense vector search, hybrid retrieval, and multi-tenancy access control. |
@@ -97,7 +97,7 @@ When deploying or building a semantic search system for contracts, consider the 
 1. Fork this repository. 🍴
 2. Add or update entries in `README.md` following the established table structure. 📝
 3. Ensure all SaaS entries include explicit starting prices, company scale figures, and verified free tier / trial terms. 💲
-4. Ensure all open-source entries include valid GitHub links, descriptions, and linked star badges (`style=social&color=white`). ⭐
+4. Ensure all open-source entries include valid GitHub links, descriptions, and linked Stars_Badges (`style=social&color=white`). ⭐
 5. Submit a pull request with a concise summary of your additions. 🚀
 
 ---
