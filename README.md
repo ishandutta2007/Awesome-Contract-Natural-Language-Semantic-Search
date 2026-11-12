@@ -1,6 +1,6 @@
 # Awesome-Contract-Natural-Language-Semantic-Search
 
-# Top Contract Natural Language & Semantic Search Ecosystem
+## Top Contract Natural Language & Semantic Search Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Natural Language Querying, Semantic Retrieval & Contract Intelligence Search*  
