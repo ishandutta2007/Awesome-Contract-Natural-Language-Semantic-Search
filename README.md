@@ -1,34 +1,52 @@
-# Awesome Contract Natural Language & Semantic Search [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<div align="center">
+
+<a href="https://github.com/ishandutta2007/Awesome-Contract-Natural-Language-Semantic-Search">
+  <img src="assets/banner.svg" alt="Awesome Contract Natural Language & Semantic Search Banner" width="100%" />
+</a>
+
+# 📜 Awesome Contract Natural Language & Semantic Search 🔍
 
 > A curated directory of SaaS platforms, enterprise AI search engines, and open-source frameworks for **Contract Natural Language Search**, **Semantic Clause Retrieval**, and **Contract Intelligence**.
 
-[![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Contract-Natural-Language-Semantic-Search?style=social)](https://github.com/ishandutta2007/Awesome-Contract-Natural-Language-Semantic-Search/stargazers)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://makeapullrequest.com)
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Contract-Natural-Language-Semantic-Search/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Contract-Natural-Language-Semantic-Search?style=social" alt="GitHub Stars" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT" /></a>
+  <a href="https://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-Legal and deal teams spend thousands of hours manually hunting through agreements, master services agreements (MSAs), statements of work (SOWs), and amendments. Modern contract semantic search allows teams to query repositories using plain English questions (e.g., *"Find all non-standard indemnification caps exceeding 2x fees"* or *"Show all unilateral termination-for-convenience clauses with under 30 days notice"*) rather than fragile Boolean keyword strings.
-
----
-
-## Table of Contents
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS & Hosted Platforms](#saas--hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [Key Architectural Considerations](#key-architectural-considerations)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+</div>
 
 ---
 
-## Sector Overview & Market Dynamics
-
-The enterprise search and contract intelligence sector is valued at approximately **$5.6B – $7.5B for enterprise search** (projected at ~9% CAGR) and **$2.5B – $3.7B for contract lifecycle management & intelligence** (with AI-driven segments growing at 15–23% CAGR). The market is **moderately fragmented**: general enterprise semantic search is consolidating around multi-billion-dollar hyperscalers and frontier AI search providers (Elastic, Glean, Amazon, Perplexity), while domain-specific legal and contract intelligence remains split between vertical CLM incumbents (Icertis, Ironclad) and specialized agentic retrieval startups (Hebbia, OpenContracts).
+Legal and deal teams spend thousands of hours manually hunting through agreements, master services agreements (MSAs), statements of work (SOWs), and amendments. Modern contract semantic search allows teams to query repositories using plain English questions (e.g., *"Find all non-standard indemnification caps exceeding 2x fees"* or *"Show all unilateral termination-for-convenience clauses with under 30 days notice"*) rather than fragile Boolean keyword strings. 💡
 
 ---
 
-## SaaS & Hosted Platforms
+## 📑 Table of Contents
+- [🌐 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS & Hosted Platforms](#️-saas--hosted-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🏗️ Key Architectural Considerations](#️-key-architectural-considerations)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [⭐ Star History](#-star-history)
+- [⚠️ Disclaimer](#️-disclaimer)
 
-*Below is a curated comparison of major commercial SaaS search and contract intelligence platforms, ranked in descending order by company scale (market capitalization / enterprise valuation / ARR).*
+---
+
+## 🌐 Sector Overview & Market Dynamics
+
+The enterprise search and contract intelligence sector is valued at approximately **$5.6B – $7.5B for enterprise search** (projected at ~9% CAGR) and **$2.5B – $3.7B for contract lifecycle management & intelligence** (with AI-driven segments growing at 15–23% CAGR). The market is **moderately fragmented**: general enterprise semantic search is consolidating around multi-billion-dollar hyperscalers and frontier AI search providers (Elastic, Glean, Amazon, Perplexity), while domain-specific legal and contract intelligence remains split between vertical CLM incumbents (Icertis, Ironclad) and specialized agentic retrieval startups (Hebbia, OpenContracts). 📈
+
+---
+
+## ☁️ SaaS & Hosted Platforms
+
+*Below is a curated comparison of major commercial SaaS search and contract intelligence platforms, ranked in descending order by company scale (market capitalization / enterprise valuation / ARR).* 🏢
 
 | Product | Company Scale (Valuation / Revenue) | Description | Starting Pricing (Specific Tier) | Free Tier / Free Trial Limits |
 |:---|:---|:---|:---|:---|
@@ -45,9 +63,9 @@ The enterprise search and contract intelligence sector is valued at approximatel
 
 ---
 
-## Open-Source GitHub Projects
+## 🔓 Open-Source GitHub Projects
 
-*Open-source document intelligence engines, legal document review platforms, and vector retrieval databases suitable for building sovereign, private contract search systems. Ranked in descending order by GitHub stargazers count.*
+*Open-source document intelligence engines, legal document review platforms, and vector retrieval databases suitable for building sovereign, private contract search systems. Ranked in descending order by GitHub stargazers count.* 🛠️
 
 | Project | Stars | Focus & Description |
 |:---|:---|:---|
@@ -63,27 +81,44 @@ The enterprise search and contract intelligence sector is valued at approximatel
 
 ---
 
-## Key Architectural Considerations
+## 🏗️ Key Architectural Considerations
 
-When deploying or building a semantic search system for contracts, consider the following non-negotiable requirements:
+When deploying or building a semantic search system for contracts, consider the following non-negotiable requirements: 🛡️
 
-1. **Role-Based Access Control (RBAC) at Retrieval Time:** In legal operations, unauthorized disclosure is a severe compliance violation. Enforce security filters (such as PostgreSQL Row Level Security or Qdrant payload filters) at the vector search stage, not after results are retrieved.
-2. **Hybrid Search (Dense + Sparse):** Pure dense vector search can fail on exact contract clause citations (e.g., *"Section 14.2(b)"*) or specific company names. Combine vector embeddings with BM25 keyword search using reciprocal rank fusion (RRF).
-3. **Structured Chunking:** Do not use naive fixed-token character chunking on contracts. Chunk by clauses, recitals, exhibits, and section headers (using tools like Docling or OpenContracts) to preserve legal context and enforce traceable citations.
-4. **Data Sovereignty & Privacy:** Ensure contractual embeddings and query logs are not utilized for foundation model training or leaked across tenant partitions.
-
----
-
-## How to Contribute
-
-1. Fork this repository.
-2. Add or update entries in `README.md` following the established table structure.
-3. Ensure all SaaS entries include explicit starting prices, company scale figures, and verified free tier / trial terms.
-4. Ensure all open-source entries include valid GitHub links, descriptions, and linked star badges (`style=social&color=white`).
-5. Submit a pull request with a concise summary of your additions.
+1. **Role-Based Access Control (RBAC) at Retrieval Time:** In legal operations, unauthorized disclosure is a severe compliance violation. Enforce security filters (such as PostgreSQL Row Level Security or Qdrant payload filters) at the vector search stage, not after results are retrieved. 🔒
+2. **Hybrid Search (Dense + Sparse):** Pure dense vector search can fail on exact contract clause citations (e.g., *"Section 14.2(b)"*) or specific company names. Combine vector embeddings with BM25 keyword search using reciprocal rank fusion (RRF). 🔀
+3. **Structured Chunking:** Do not use naive fixed-token character chunking on contracts. Chunk by clauses, recitals, exhibits, and section headers (using tools like Docling or OpenContracts) to preserve legal context and enforce traceable citations. 🧩
+4. **Data Sovereignty & Privacy:** Ensure contractual embeddings and query logs are not utilized for foundation model training or leaked across tenant partitions. 🏛️
 
 ---
 
-## Disclaimer
+## 🤝 How to Contribute
 
-This repository is curated for informational, research, and technical evaluation purposes only and does not constitute formal legal or financial advice. All trademarks and brand names are property of their respective owners. Note that **Amazon Kendra will stop accepting new customers on July 30, 2026**; evaluate alternative architectures for upcoming deployments.
+1. Fork this repository. 🍴
+2. Add or update entries in `README.md` following the established table structure. 📝
+3. Ensure all SaaS entries include explicit starting prices, company scale figures, and verified free tier / trial terms. 💲
+4. Ensure all open-source entries include valid GitHub links, descriptions, and linked star badges (`style=social&color=white`). ⭐
+5. Submit a pull request with a concise summary of your additions. 🚀
+
+---
+
+## 💖 Support
+
+Thank you so much for exploring and using **Awesome Contract Natural Language & Semantic Search**! If you find this curated collection useful, please consider:
+
+- ⭐ **Starring** the repository on GitHub to show your appreciation.
+- 🍴 **Forking** the repo and contributing your own insights, tools, or updates.
+- 📢 **Sharing** with legaltech engineers, legal ops teams, and developers building semantic retrieval pipelines.
+- ☕ **Buying a coffee / Sponsoring** the maintainer via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007) to help support continuous curation and updates!
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Contract-Natural-Language-Semantic-Search&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Contract-Natural-Language-Semantic-Search&type=date&legend=top-left)
+
+---
+
+## ⚠️ Disclaimer
+
+This repository is curated for informational, research, and technical evaluation purposes only and does not constitute formal legal or financial advice. All trademarks and brand names are property of their respective owners. Note that **Amazon Kendra will stop accepting new customers on July 30, 2026**; evaluate alternative architectures for upcoming deployments. ⚖️
